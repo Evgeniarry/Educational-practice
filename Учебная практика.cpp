@@ -23,7 +23,7 @@ vector<string> clear_of_excess(vector<string>words)
 
     for (string word : words) {
         for (char symbol : word) {
-            if ((symbol >= 'a' && symbol <= 'z') || (symbol >= 'A' && symbol <= 'Z'));
+            if ((symbol >= 'a' && symbol <= 'z') || (symbol >= 'A' && symbol <= 'Z'))
                 symbols_of_updated_word.push_back(symbol);
         }
         string updated_word(symbols_of_updated_word.begin(), symbols_of_updated_word.end());
@@ -101,13 +101,6 @@ int main()
     vector<string> clear_text;
     clear_text = clear_of_excess(division_into_words(text));
     int n = clear_text.size();
-    vector<string> sort;
-    sort = shellsort(clear_text, n);
-    auto end = chrono::high_resolution_clock::now();
-    chrono::duration<float> duraction = end - start;
-
-    fanalys << "Количество слов: " << n << endl << "Время сортировки: " << duraction.count() << endl << "Статистика (количество слов каждой длины): \n";
-    cout << "Количество слов: " << n << endl << "Время сортировки: " << duraction.count() << endl << "Статистика (количество слов каждой длины): \n";
 
     int statistic [100] = {};
     int k = 0;
@@ -117,7 +110,15 @@ int main()
         statistic[k]++;
     }
 
-    for (int i=0; i < 20; i++)
+    vector<string> sort;
+    sort = shellsort(clear_text, n);
+    auto end = chrono::high_resolution_clock::now();
+    chrono::duration<float> duraction = end - start;
+
+    fanalys << "Количество слов: " << n-statistic[0] << endl << "Время сортировки: " << duraction.count() << endl << "Статистика (количество слов каждой длины): \n";
+    cout << "Количество слов: " << n - statistic[0] << endl << "Время сортировки: " << duraction.count() << endl << "Статистика (количество слов каждой длины): \n";
+
+    for (int i=1; i < 100; i++)
     {
         if (statistic[i] != 0) {
             fanalys << "[" << i << "] - " << statistic[i] << endl;
