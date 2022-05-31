@@ -23,7 +23,7 @@ vector<string> clear_of_excess(vector<string>words)
 
     for (string word : words) {
         for (char symbol : word) {
-            if ((symbol >= 'a' && symbol <= 'z') || (symbol >= 'A' && symbol <= 'Z'));
+            if ((symbol >= 'a' && symbol <= 'z') || (symbol >= 'A' && symbol <= 'Z'))
                 symbols_of_updated_word.push_back(symbol);
         }
         string updated_word(symbols_of_updated_word.begin(), symbols_of_updated_word.end());
