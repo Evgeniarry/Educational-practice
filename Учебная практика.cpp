@@ -8,12 +8,12 @@
 
 using namespace std;
 
-vector<string> division_into_words(string text)
+vector<string> division_into_words(string text) // Функция для разделения строки на слова
 {
     stringstream s(text);
-    vector <string> svec;
-    for (string word; s >> word; svec.push_back(word));
-    return svec;
+    vector <string> arr_words;
+    for (string word; s >> word; arr_words.push_back(word)); //в этом цикле строка разбивается на слова
+    return arr_words;
 }
 
 vector<string> clear_of_excess(vector<string>words)
@@ -49,15 +49,11 @@ vector<string> shellsort(vector<string>x, int n)
                 temp = x[j];
                 for (k = j - increment;k >= 0 && temp.length() > x[k].length();k -= increment)
                 {
-                    comp++;
-                    swp++;
                     x[k + increment] = x[k];
                 }
                 x[k + increment] = temp;
-                swp++;
             }
         }
-        comp++;
         if (increment / 2 != 0)
             increment = increment / 2;
         else if (increment == 1)
