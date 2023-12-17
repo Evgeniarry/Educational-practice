@@ -1,0 +1,129 @@
+API Well Number;County;Company Name;API Hole Number;Sidetrack;Completion;Well Type;Production Field Name;Well Status;Well Name;Town;Producing Formation;Months in Production;Gas Produced, MCF;Water Produced, bbl;Reporting Year;Location 1
+3,10132E+13;13;REI-NY, Inc.;17715;0;0;GD;Lakeshore;IN;Piazza 3;Gerry;Medina;0;1568;1;1989;Gerry, NY
+3,10132E+13;13;Skubis, Daniel J.;20845;0;0;GD;Lakeshore;IN;S. Skubis #1;Pomfret;Medina;12;2691;0;1990;Pomfret, NY
+3,10112E+13;11;Dunn, Walter J;16844;0;0;GW;West Auburn;AC;Dunn 1;Scipio;Queenston;12;0;0;1991;Scipio, NY
+3,10131E+13;13;20 Bliss Street, Inc.;12045;0;0;GD;Lakeshore;AC;Plank 1;Pomfret;Medina;12;2540;0;1991;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11281;0;0;GD;Lakeshore;AC;Morse 2;Pomfret;Medina;0;0;0;1991;Pomfret, NY
+3,10131E+13;13;20 Bliss Street, Inc.;12045;0;0;GD;Lakeshore;AC;Plank 1;Pomfret;Medina;12;2596;0;1993;Pomfret, NY
+3,10291E+13;29;Robnett, William F.;14466;0;0;GD;Akron;IN;Robnett 1;Newstead;Medina;0;0;0;1993;Newstead, NY
+3,10131E+13;13;20 Bliss Street, Inc.;12045;0;0;GD;Lakeshore;AC;Plank 1;Pomfret;Medina;12;2591;0;1994;Pomfret, NY
+3,10131E+13;13;Gloor, Robert;11721;0;0;GD;Lakeshore;AC;Gloor 1;Pomfret;Medina;12;0;0;1995;Pomfret, NY
+3,10112E+13;11;Dunn, Walter J;16844;0;0;GW;West Auburn;AC;Dunn 1;Scipio;Queenston;12;0;0;1997;Scipio, NY
+3,10132E+13;13;Emke, Diane;18879;0;0;GD;Lakeshore;AC;Emke, D #6327;Villenova;Medina;0;0;0;1997;Villenova, NY
+3,10131E+13;13;20 Bliss Street, Inc.;11918;0;0;GD;Lakeshore;IN;Civiletto 1;Pomfret;Medina;0;0;0;1999;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;10883;0;0;GD;Lakeshore;IN;Longhouse 64;Pomfret;Medina;0;0;0;1985;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11678;0;0;GD;Lakeshore;AC;Joy 1259 #1;Pomfret;Medina;12;1783;0;1986;Pomfret, NY
+3,10136E+13;13;Seneca Resources Corp.;60331;0;0;GD;Lakeshore;AC;Hall 31947-I;Pomfret;Medina;12;2958;0;1989;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;12130;0;0;GD;Lakeshore;AC;Beebe 1232;Pomfret;Medina;12;2483;0;1989;Pomfret, NY
+3,10112E+13;11;OI Auburn, Inc.;17517;0;0;GD;West Auburn;AC;Fuller A118-6;Aurelius;Queenston;12;11210;0;1987;Aurelius, NY
+3,10131E+13;13;Meridian Exploration Corp.;9355;0;0;GW;Lakeshore;PA;Newman James 1;Pomfret;Medina;8;2849;0;1986;Pomfret, NY
+3,10112E+13;11;F & G Exploration;17442;0;0;GD;West Auburn;AC;Dougherty 1;Springport;Queenston;12;7349;0;1987;Springport, NY
+3,10111E+13;11;OI Auburn, Inc.;13589;0;0;GE;West Auburn;AC;Shank Sp100-1;Springport;Queenston;12;6736;0;1989;Springport, NY
+3,10132E+13;13;Chautauqua Energy,  Inc.;20406;0;0;GD;Lakeshore;AC;ABC Paving #1;Pomfret;Medina;12;6044;0;1989;Pomfret, NY
+3,10132E+13;13;Lenape Resources, Inc.;18586;0;0;GD;Lakeshore;AC;McNamara #2;Villenova;Medina;7;4877;0;1986;Villenova, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;13157;0;0;GD;Lakeshore;AC;McPherson#1;Pomfret;Medina;0;14216;0;1986;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11358;0;0;GD;Lakeshore;AC;Vinciaguerra 1206;Pomfret;Medina;0;0;0;1987;Pomfret, NY
+3,10092E+13;9;Fault Line Oil Corp.;21114;0;0;GD;Chaffee-Arcade;AC;Titus #1a;Yorkshire;Medina;0;0;0;1988;Yorkshire, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;13050;0;0;GD;Lakeshore;AC;Newton #2;Pomfret;Medina;0;1053;0;1986;Pomfret, NY
+3,10112E+13;11;F & G Exploration;20422;0;0;GD;West Auburn;AC;Bacon J 2;Springport;Queenston;12;46988;0;1987;Springport, NY
+3,10131E+13;13;Belden & Blake Corporation;9870;0;0;GD;Lakeshore;AC;Nickerson 9;Pomfret;Medina;12;4966;44;1987;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11309;0;0;GD;Lakeshore;IN;Jopek 1;Pomfret;Medina;12;4022;17;1987;Pomfret, NY
+3,10131E+13;13;J.M. Resources, Inc.;14326;0;0;GD;Lakeshore;AC;Lepp #4;Pomfret;Medina;12;4502;80;1987;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;12214;0;0;GD;Lakeshore;AC;Siebert 1360;Pomfret;Medina;2;765;0;1987;Pomfret, NY
+3,10512E+13;51;Howe, Thomas L.;15188;0;0;GW;Hunt Hollow;AC;Smith 1;Portage;Medina;0;0;0;1987;Portage, NY
+3,10131E+13;13;Belden & Blake Corporation;10417;0;0;GD;Lakeshore;AC;Lesch 8;Pomfret;Medina;0;0;0;1988;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;12102;0;0;GD;Lakeshore;AC;Wick 1317;Hanover;Medina;10;745;0;1989;Hanover, NY
+3,10292E+13;29;Stedman Energy, Inc.;19987;0;0;GD;Brant-Eden;AC;Gugino #3;Brant;Medina;12;3052;20;1989;Brant, NY
+3,10132E+13;13;Nornew, Inc.;18399;0;0;DH;Lakeshore;PA;Ziebart #1;North Harmony;None Specified;0;0;0;1987;North Harmony, NY
+3,10111E+13;11;OI Auburn, Inc.;13553;0;0;GW;West Auburn;AC;Pollard A1098;Aurelius;Queenston;12;3790;0;1988;Aurelius, NY
+3,10132E+13;13;Lenape Resources, Inc.;18566;0;0;GD;Lakeshore;AC;Erwin 654;Ripley;Medina;11;3011;91;1988;Ripley, NY
+3,10111E+13;11;OI Auburn, Inc.;13588;0;0;GD;West Auburn;AC;Shank Sp100-2;Springport;Queenston;12;6352;0;1989;Springport, NY
+3,10111E+13;11;OI Auburn, Inc.;11544;0;0;GD;West Auburn;AC;Simmons A131-V4;Aurelius;Queenston;12;4471;0;1989;Aurelius, NY
+3,10131E+13;13;Lenape Resources, Inc.;10993;0;0;GD;Lakeshore;IN;Dpotter #1182;Pomfret;Medina;0;0;0;1989;Pomfret, NY
+3,1013E+13;13;Harp, J. Stephen;1480;0;0;GD;Lakeshore;IN;Sullivan J.A. #2 #2027-I;Pomfret;Medina;11;580;0;1991;Pomfret, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;12989;0;0;GD;Lakeshore;AC;Costello #1;Pomfret;Medina;11;0;0;1991;Pomfret, NY
+3,10132E+13;13;GFS Energy, Inc.;20800;0;0;GD;Lakeshore;AC;Crowell Unit #3;Villenova;Medina;6;1475;0;1990;Villenova, NY
+3,10131E+13;13;20 Bliss Street, Inc.;12152;0;0;GD;Lakeshore;AC;Walker #1(16);Pomfret;Medina;12;247;0;1991;Pomfret, NY
+3,10131E+13;13;Great Lakes Energy Partners;5129;0;0;GD;Lakeshore;UN;Leone #1;Pomfret;Medina;12;2020;0;1991;Pomfret, NY
+3,1013E+13;13;Seneca Resources Corp.;4986;0;0;GW;Lakeshore;AC;McGraw #1;Pomfret;Medina;12;5367;0;1991;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11784;0;0;GD;Lakeshore;AC;Stafford 1292;Pomfret;Medina;10;7892;0;1990;Pomfret, NY
+3,10131E+13;13;Stedman Energy, Inc.;14174;0;0;GD;Lakeshore;AC;Parker #1;Chautauqua;Medina;12;2378;0;1990;Chautauqua, NY
+3,10112E+13;11;F & G Exploration;17953;0;0;GD;West Auburn;AC;Rice 1;Springport;Queenston;12;4440;0;1990;Springport, NY
+3,10131E+13;13;L. W. Resources;13792;0;0;GD;Lakeshore;IN;Feinen #2;Sheridan;Medina;0;0;0;1990;Sheridan, NY
+3,10132E+13;13;Seneca Resources Corp.;19351;0;0;GD;Lakeshore;AC;Nagel #6451;Villenova;Medina;12;4828;13;1992;Villenova, NY
+3,10131E+13;13;Resource America, Inc.;12434;0;0;GD;Lakeshore;PA;Cowles #2;North Harmony;Medina;0;0;0;1990;North Harmony, NY
+3,10131E+13;13;Belden & Blake Corporation;11469;0;0;GD;Lakeshore;AC;Christy 1222a;Pomfret;Medina;10;1526;0;1990;Pomfret, NY
+3,10037E+13;3;Rigas, Constantine J.;67624;0;0;GD;Alfred;AC;Blaisdell #2;Ward;Upper Devonian;12;120;0;1991;Ward, NY
+3,10131E+13;13;Belden & Blake Corporation;11562;0;0;GD;Lakeshore;AC;Bemus 214;Pomfret;Medina;0;0;0;1991;Pomfret, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;12988;0;0;GD;Lakeshore;AC;Castilone #1;Pomfret;Medina;11;0;0;1991;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;10448;0;0;GD;Lakeshore;IN;Gullo #1117;Pomfret;Medina;12;1380;5;1992;Pomfret, NY
+3,10112E+13;11;F & G Exploration;17442;0;0;GD;West Auburn;AC;Dougherty 1;Springport;Queenston;12;5530;0;1990;Springport, NY
+3,10112E+13;11;F & G Exploration;20436;0;0;GD;West Auburn;AC;Bacon 1;Aurelius;Queenston;12;9677;0;1990;Aurelius, NY
+3,10132E+13;13;Belden & Blake Corporation;15408;0;0;GD;Lakeshore;AC;Olmstead, H #2;Gerry;Medina;12;2898;25;1993;Gerry, NY
+3,10112E+13;11;F & G Exploration;17953;0;0;GD;West Auburn;AC;Rice 1;Springport;Queenston;12;3939;0;1994;Springport, NY
+3,10132E+13;13;Seneca Resources Corp.;21877;0;0;GD;Lakeshore;AC;Dayton #7000;Villenova;Medina;12;2651;0;1994;Villenova, NY
+3,10131E+13;13;Lenape Resources, Inc.;11538;0;0;GD;Lakeshore;IN;Dorman G&M #1237;Pomfret;Medina;11;1461;0;1993;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;10448;0;0;GD;Lakeshore;IN;Gullo #1117;Pomfret;Medina;9;1236;0;1993;Pomfret, NY
+3,1013E+13;13;Seneca Resources Corp.;3168;0;0;GD;Lakeshore;AC;Civilett N. #2023-I;Pomfret;Medina;11;2402;0;1993;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;13575;0;0;GD;Lakeshore;AC;Bull 1212;Pomfret;Medina;11;1806;0;1993;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11281;0;0;GD;Lakeshore;AC;Morse 2;Pomfret;Medina;12;2517;107;1994;Pomfret, NY
+3,10112E+13;11;Dunn, Walter J;16844;0;0;GW;West Auburn;AC;Dunn 1;Scipio;Queenston;12;0;0;1994;Scipio, NY
+3,10031E+13;3;Rigas, Constantine J.;10317;0;0;GD;Alfred;AC;Blaisdell #1;Ward;Upper Devonian;12;70;0;1994;Ward, NY
+3,10132E+13;13;Lenape Resources, Inc.;18039;0;0;GD;Lakeshore;IN;Barney 732;Sherman;Medina;11;3138;0;1993;Sherman, NY
+3,10131E+13;13;Belden & Blake Corporation;11810;0;0;GD;Lakeshore;AC;Nosek 1285;Pomfret;Medina;12;477;30;1993;Pomfret, NY
+3,10131E+13;13;Specialty Bakers, Inc.;12730;0;0;GD;Lakeshore;IN;Petribakery #1;Dunkirk;Medina;12;2539;0;1994;Dunkirk, NY
+3,10112E+13;11;F & G Exploration;20437;0;0;GD;West Auburn;AC;Bacon 2;Aurelius;Queenston;12;6552;0;1994;Aurelius, NY
+3,10131E+13;13;Gloor, Robert;11721;0;0;GD;Lakeshore;AC;Gloor 1;Pomfret;Medina;12;0;0;1993;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;10946;0;0;GD;Lakeshore;AC;Scaccia 1;Pomfret;Medina;12;2303;8;1993;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;11086;0;0;GD;Lakeshore;AC;Giambra C&L #1192;Pomfret;Medina;12;473;0;1993;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;10993;0;0;GD;Lakeshore;IN;Dpotter #1182;Pomfret;Medina;12;1018;19;1993;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;10033;0;0;GD;Lakeshore;AC;Skinner 319;Pomfret;Medina;12;1967;26;1993;Pomfret, NY
+3,10132E+13;13;Lenape Resources, Inc.;18585;0;0;GD;Lakeshore;AC;McNamara #1;Villenova;Medina;12;2137;160;1993;Villenova, NY
+3,10131E+13;13;Belden & Blake Corporation;10375;0;0;GD;Lakeshore;AC;Demaggio 10;Pomfret;Medina;12;4677;63;1993;Pomfret, NY
+3,10292E+13;29;Stedman Energy, Inc.;18434;0;0;GD;Brant-Eden;AC;Decarlo #1;Brant;Medina;12;973;0;1993;Brant, NY
+3,10131E+13;13;Belden & Blake Corporation;10841;0;0;GD;Lakeshore;IN;Burgun 1166;Pomfret;Medina;5;2379;14;1994;Pomfret, NY
+3,10092E+13;9;L. W. Resources;20369;0;0;GD;Lakeshore;AC;Ross #1;Perrysburg;Medina;12;200;0;1994;Perrysburg, NY
+3,10132E+13;13;New York Gas & Oil Co, Inc.;21896;0;0;GD;Lakeshore;AC;Ehmke, W #1;Pomfret;Medina;12;5720;0;1993;Pomfret, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;12989;0;0;GD;Lakeshore;AC;Costello #1;Pomfret;Medina;10;488;0;1993;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;10461;0;0;GD;Lakeshore;AC;Hancock #59;Pomfret;Medina;12;790;15;1996;Pomfret, NY
+3,10112E+13;11;Saxton, Richard W.;15332;0;0;GD;West Auburn;IN;Saxton 2a;Springport;Queenston;0;0;0;1995;Springport, NY
+3,10372E+13;37;United States Gypsum Co.;20494;0;0;GD;Huron Creek;AC;Amedick, J. 2;Darien;Medina;12;2278;0;1995;Darien, NY
+3,10132E+13;13;REI-NY, Inc.;20122;0;0;GW;Ellery;IN;Bargar 8;Ellery;Akron;0;0;0;1995;Ellery, NY
+3,10112E+13;11;Saxton, Richard W.;15332;0;0;GD;West Auburn;IN;Saxton 2a;Springport;Queenston;0;0;0;1997;Springport, NY
+3,10291E+13;29;Solar Sportsystems, Inc.;13936;0;0;GD;Elma;AC;Fee No 4;Elma;Medina;12;454;0;1995;Elma, NY
+3,10112E+13;11;F & G Exploration;20437;0;0;GD;West Auburn;AC;Bacon 2;Aurelius;Queenston;10;6029;0;1995;Aurelius, NY
+3,10111E+13;11;OI Auburn, Inc.;13600;0;0;GE;West Auburn;AC;Ball C & W A102-8;Aurelius;Queenston;12;1753;0;1996;Aurelius, NY
+3,10132E+13;13;Schreiner Oil & Gas, Inc.;22440;0;0;GD;Lakeshore;AC;Reynolds,H 1;Hanover;Medina;12;4026;579;1995;Hanover, NY
+3,10112E+13;11;OI Auburn, Inc.;15747;0;0;GW;West Auburn;AC;Bench A-119-1;Aurelius;Queenston;12;4580;0;1995;Aurelius, NY
+3,11211E+13;121;Big Tree, LLC;14178;0;0;GD;Silver Lake;IN;Chaffee, W 1;Perry;Medina;12;1490;15;1995;Perry, NY
+3,10111E+13;11;OI Auburn, Inc.;13639;0;0;GE;West Auburn;AC;Helenski A-104-6;Aurelius;Queenston;12;1653;0;1996;Aurelius, NY
+3,10112E+13;11;F & G Exploration;20421;0;0;GD;West Auburn;AC;Bacon J 3;Springport;Queenston;12;3135;0;1998;Springport, NY
+3,10112E+13;11;F & G Exploration;15583;0;0;GD;West Auburn;AC;Bacon 1;Springport;Queenston;12;1205;0;1995;Springport, NY
+3,10112E+13;11;OI Auburn, Inc.;17599;0;0;GD;West Auburn;AC;Wimmer A118-5;Aurelius;Queenston;12;3370;0;1997;Aurelius, NY
+3,10131E+13;13;Lenape Resources, Inc.;10993;0;0;GD;Lakeshore;IN;Dpotter #1182;Pomfret;Medina;5;287;5;1996;Pomfret, NY
+3,10112E+13;11;F & G Exploration;19599;0;0;GD;West Auburn;AC;Bacon 1;Springport;Queenston;12;16067;0;1996;Springport, NY
+3,10112E+13;11;OI Auburn, Inc.;19591;0;0;GD;West Auburn;AC;Delaney A124-4a;Aurelius;Queenston;12;2823;0;1995;Aurelius, NY
+3,10131E+13;13;Basic Energy Producers, Inc.;11101;0;0;GD;Lakeshore;IN;Wallace 2;Pomfret;Medina;0;0;0;1996;Pomfret, NY
+3,10112E+13;11;F & G Exploration;20572;0;0;GD;West Auburn;AC;Bacon 4;Springport;Queenston;12;3789;0;1997;Springport, NY
+3,10112E+13;11;F & G Exploration;20682;0;0;GD;West Auburn;AC;Gable 1;Springport;Queenston;12;3537;0;1996;Springport, NY
+3,10132E+13;13;Howell, George E. and Betty L.;20807;0;0;GD;Lakeshore;AC;G. Howell 1;Busti;Medina;12;205;0;1995;Busti, NY
+3,10131E+13;13;Belden & Blake Corporation;11309;0;0;GD;Lakeshore;IN;Jopek 1;Pomfret;Medina;0;837;0;1996;Pomfret, NY
+3,10132E+13;13;Linn Operating, LLC;18582;0;0;GD;Lakeshore;AC;Crowell, D 1-208;Villenova;Medina;11;2083;0;1995;Villenova, NY
+3,10131E+13;13;Lenape Resources, Inc.;11406;0;0;GD;Lakeshore;AC;Darby 1;Stockton;Medina;0;0;0;1997;Stockton, NY
+3,10112E+13;11;F & G Exploration;16872;0;0;GD;West Auburn;AC;Patterson 2;Springport;Queenston;12;4076;0;1997;Springport, NY
+3,10132E+13;13;Great Lakes Energy Partners;21177;0;0;GD;Lakeshore;AC;Busch, A #1;Pomfret;Medina;12;3462;0;1996;Pomfret, NY
+3,10291E+13;29;Stedman Energy, Inc.;13228;0;0;GD;Brant-Eden;AC;Garcia #1;Evans;Medina;4;349;0;1999;Evans, NY
+3,10131E+13;13;Belden & Blake Corporation;11810;0;0;GD;Lakeshore;AC;Nosek 1285;Pomfret;Medina;12;789;40;1998;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;11784;0;0;GD;Lakeshore;AC;Stafford 1292;Pomfret;Medina;0;3726;0;1998;Pomfret, NY
+3,10291E+13;29;Seneca Resources Corp.;5090;0;0;GD;Lakeview;AC;NFG(Huff)#2370-I;Evans;Medina;12;229;0;1998;Evans, NY
+3,10131E+13;13;Desert Gas Exploration, Inc.;12989;0;0;GD;Lakeshore;AC;Costello #1;Pomfret;Medina;5;351;0;1999;Pomfret, NY
+3,1013E+13;13;Harp, J. Stephen;1480;0;0;GD;Lakeshore;IN;Sullivan J.A. #2 #2027-I;Pomfret;Medina;0;0;0;1999;Pomfret, NY
+3,10131E+13;13;20 Bliss Street, Inc.;11984;0;0;GD;Lakeshore;AC;Joy 1;Pomfret;Medina;12;3101;;2000;Pomfret, NY
+3,10131E+13;13;Lenape Resources, Inc.;10298;0;0;GD;Lakeshore;IN;Crowe Paul Jr 1;Pomfret;Medina;1;100;0;2000;Pomfret, NY
+3,10136E+13;13;Seneca Resources Corp.;60331;0;0;GD;Lakeshore;AC;Hall 31947-I;Pomfret;Medina;9;2162;11;1999;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;12413;0;0;GD;Lakeshore;AC;Dorman 1349;Pomfret;Medina;12;2041;230;1998;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;12211;0;0;GD;Lakeshore;AC;Lesch 1357;Pomfret;Medina;12;1361;0;2000;Pomfret, NY
+3,10131E+13;13;Belden & Blake Corporation;10841;0;0;GD;Lakeshore;IN;Burgun 1166;Pomfret;Medina;1;411;3;1998;Pomfret, NY
+3,10131E+13;13;Resource America, Inc.;11664;0;0;GD;Lakeshore;AC;Morse #1;North Harmony;Medina;0;0;;2000;North Harmony, NY
+3,10291E+13;29;Stedman Energy, Inc.;12875;0;0;GD;Brant-Eden;AC;Sullivan M #1;Evans;Medina;0;0;;2000;Evans, NY
+3,10037E+13;3;Dick, James F Jr;67367;0;0;OD;Richburg;IN;Cobble #02;Wirt;Richburg;12;0;0;1994;Wirt, NY
