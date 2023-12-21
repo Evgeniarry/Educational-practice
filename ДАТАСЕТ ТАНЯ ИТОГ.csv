@@ -1,4 +1,4 @@
-﻿Production Date Entered ,Operator ,County, Town, Producing Formation, Active Oil Wells ,Inactive Oil Wells ,Active Gas Wells, Inactive Gas Wells ,Oil Produced bbl, Gas Produced Mcf
+﻿Production Date Entered ,Operator ,County, Town, Producing Formation, Active Oil Wells ,Inactive Oil Wells ,Active Gas Wells, Inactive Gas Wells ,Oil_Produced_bbl, Gas_Produced_Mcf
 1996 ,Buffalo China. Inc. ,Erie, BUFFALO, MEDINA, 0 ,0 ,1, 0 ,0, 106
 1996 ,Copper Ridge Oil. Inc. ,Steuben, WEST UNION, FULMER VALLEY, 28 ,0 ,0, 0 ,1229, 0
 1995 ,White. Walter W. & Christina L. ,Cattaraugus, CARROLLTON, BRADFORD, 3 ,0 ,0, 0 ,462, 0
@@ -9,7 +9,7 @@
 1995 ,Traxler. Joyce ,Genesee, LE ROY, MEDINA, 0 ,0 ,1, 0 ,0, 500
 1996 ,Cunningham Natural Gas Corp. ,Allegany, WILLING, ORISKANY, 0 ,0 ,1, 3 ,0, 484927
 1996 ,Crowell. Walter R. ,Chautauqua, VILLENOVA, MEDINA, 0 ,0 ,1, 0 ,0, 100
-1998 ,Belden & Blake Corporation ,Chautauqua, ELLERY, MEDINA, 0 ,0 ,1, 0 ,0, 2351
+1998 ,Belden & Blake Corporation ,Chautauqua, ELLERY, MEDINA, 0 ,0 ,1, 0 ,670, 2351
 1995 ,Seneca Resources Corporation ,Genesee, STAFFORD, MEDINA, 0 ,0 ,1, 0 ,0, 1331
 1995 ,Torrey. Martha M. ,Cattaraugus, CARROLLTON, CHIPMUNK, 8 ,0 ,0, 0 ,287, 0
 1995 ,Weil Resources. Inc. ,Cattaraugus, OTTO, MEDINA, 0 ,0 ,1, 0 ,0, 758
@@ -17,7 +17,7 @@
 1995 ,Wroblewski. Francis M ,Erie, COLDEN, MEDINA, 0 ,0 ,1, 0 ,0, 0
 1997 ,Transfuel Resources Co. ,Chautauqua, ELLINGTON, MEDINA, 0 ,0 ,57, 1 ,0, 151585
 1998 ,Perry Energy II ,Wyoming, PERRY, MEDINA, 0 ,0 ,0, 1 ,0, 0
-1999 ,Basic Energy Producers. Inc. ,Chautauqua, CHAUTAUQUA, MEDINA, 0 ,0 ,3, 0 ,0, 11807
+1999 ,Basic Energy Producers. Inc. ,Chautauqua, CHAUTAUQUA, MEDINA, 0 ,0 ,3, 0 ,980, 11807
 1995 ,Belden & Blake Corporation ,Chautauqua, ARKWRIGHT, MEDINA, 0 ,0 ,69, 7 ,0, 107837
 1999 ,United States Gypsum Co. ,Wyoming, SHELDON, MEDINA, 0 ,0 ,30, 0 ,0, 40509
 1996 ,Estate of Gary W. George ,Wyoming, BENNINGTON, MEDINA, 0 ,0 ,1, 0 ,0, 0
@@ -36,7 +36,7 @@
 1998 ,Arkema Inc. ,Erie, TONAWANDA, MEDINA, 0 ,0 ,3, 0 ,0, 1200
 1996 ,Ebenezer Oil Co.. Inc. ,Allegany, ANDOVER, FULMER VALLEY, 6 ,0 ,0, 0 ,404, 0
 1995 ,Seneca Stone Corp. ,Seneca, FAYETTE, QUEENSTON, 0 ,0 ,1, 0 ,0, 0
-1996 ,Ardent Resources. Inc. ,Livingston, LEICESTER, MEDINA, 0 ,0 ,2, 3 ,0, 1352
+1996 ,Ardent Resources. Inc. ,Livingston, LEICESTER, MEDINA, 0 ,0 ,2, 3,890, 1352
 1995 ,Seneca Resources Corporation ,Genesee, DARIEN, MEDINA, 0 ,0 ,7, 0 ,0, 29563
 1995 ,Pennzoil Products Co. ,Cattaraugus, ALLEGANY, BRADFORD, 0 ,65 ,0, 0 ,0, 0
 1995 ,Rose State Custom Service. Inc ,Cayuga, SPRINGPORT, QUEENSTON, 0 ,0 ,1, 0 ,0, 0
@@ -50,7 +50,7 @@
 1998 ,Seneca Resources Corporation ,Allegany, ALMA, RICHBURG, 0 ,0 ,2, 0 ,0, 219
 1995 ,Cunningham Natural Gas Corp. ,Steuben, HOWARD, , 0 ,0 ,0, 1 ,0, 0
 1996 ,Clark. Donald C ,Wyoming, PERRY, MEDINA, 0 ,0 ,1, 0 ,0, 135
-1995 ,Weil Resources. Inc. ,Cattaraugus, EAST OTTO, MEDINA, 0 ,0 ,3, 0 ,0, 2346
+1995 ,Weil Resources. Inc. ,Cattaraugus, EAST OTTO, MEDINA, 0 ,0 ,3, 0 ,240, 2346
 1998 ,Wyckoff Development Co. ,Steuben, JASPER, ORISKANY, 0 ,0 ,1, 1 ,0, 38756
 1997 ,North Central Oil Corp. ,Cattaraugus, LEON, MEDINA, 0 ,0 ,3, 0 ,0, 26555
 1995 ,Ruel Energy.  Inc. ,Erie, BRANT, MEDINA, 0 ,0 ,1, 0 ,0, 1684
@@ -63,15 +63,15 @@
 1996 ,Excel Industries. Inc. ,Erie, NEWSTEAD, MEDINA, 0 ,0 ,0, 1 ,0, 0
 1996 ,Cone Brothers ,Genesee, STAFFORD, MEDINA, 0 ,0 ,1, 0 ,0, 364
 1996 ,CNG Transmission Corp. ,Allegany, ALMA, ORISKANY, 0 ,0 ,2, 0 ,0, 6332
-1998 ,BDH Oil. Inc. ,Cattaraugus, ALLEGANY, CHIPMUNK & BRADFORD 2ND, 162 ,0 ,0, 0 ,21260, 0
+1998 ,BDH Oil. Inc. ,Cattaraugus, ALLEGANY, CHIPMUNK & BRADFORD 2ND, 162 ,0 ,0, 0 ,1260, 0
 1996 ,Brooklyn Union Gas Co. ,Queens, QUEENS, , 0 ,0 ,0, 5 ,0, 0
-1997 ,Texas Keystone. Inc. ,Cattaraugus, OTTO, MEDINA, 0 ,0 ,39, 0 ,0, 69103
+1997 ,Texas Keystone. Inc. ,Cattaraugus, OTTO, MEDINA, 0 ,0 ,39, 0 ,1000, 69103
 1996 ,All Saints Lutheran Church ,Erie, HAMBURG, MEDINA, 0 ,0 ,1, 0 ,0, 384
 1995 ,Seneca Resources Corporation ,Erie, ALDEN, MEDINA, 0 ,0 ,6, 1 ,0, 12577
 1995 ,White. William J ,Allegany, BOLIVAR, RICHBURG, 0 ,2 ,0, 0 ,0, 0
 1995 ,Blessing. Michael R. ,Cattaraugus, OLEAN, BRADFORD, 0 ,3 ,0, 0 ,0, 0
 1997 ,Crist. George ,Allegany, SCIO, RICHBURG, 2 ,0 ,0, 0 ,31, 0
-1996 ,Davis. Roy C. Jr. ,Steuben, CAMERON, ORISKANY, 0 ,0 ,1, 0 ,0, 0
+1996 ,Davis. Roy C. Jr. ,Steuben, CAMERON, ORISKANY, 0 ,0 ,1, 0 ,180, 0
 1996 ,Baker & Odonnell Dev. Co. ,Allegany, ALMA, RICHBURG, 0 ,28 ,0, 0 ,0, 0
 1996 ,Weil Resources. Inc. ,Erie, EDEN, MEDINA, 0 ,0 ,4, 0 ,0, 2949
 1996 ,Degitz. Sig ,Cattaraugus, CARROLLTON, BRADFORD, 1 ,0 ,0, 0 ,84, 0
@@ -180,7 +180,7 @@
 1996 ,United States Gypsum Co. ,Genesee, DARIEN, MEDINA, 0 ,0 ,14, 0 ,0, 54171
 1996 ,Vineyard Oil & Gas Company ,Chautauqua, SHERMAN, MEDINA, 0 ,0 ,5, 0 ,0, 9286
 1995 ,Yorel Energy. Inc. ,Genesee, LE ROY, MEDINA, 0 ,0 ,5, 0 ,0, 6720
-1997 ,Pennsylvania General Energy ,Cattaraugus, CARROLLTON, CHIPMUNK, 246 ,0 ,0, 0 ,21833, 21833
+1997 ,Pennsylvania General Energy ,Cattaraugus, CARROLLTON, CHIPMUNK, 246 ,0 ,0, 0 ,1833, 21833
 1996 ,Cooper. Elton C ,Allegany, ANDOVER, FULMER VALLEY, 0 ,16 ,0, 0 ,0, 0
 1998 ,Oil. Gas & Land Services. Inc. ,Chautauqua, CHERRY CREEK, MEDINA, 0 ,0 ,10, 1 ,0, 13621
 1998 ,County Line Stone Co.. Inc. ,Erie, NEWSTEAD, MEDINA, 0 ,0 ,0, 2 ,0, 0
@@ -192,11 +192,11 @@
 1995 ,Conti. John A. ,Chautauqua, BUSTI, GLADE, 3 ,0 ,0, 0 ,25, 0
 1995 ,Arkema Inc. ,Erie, TONAWANDA, MEDINA, 0 ,0 ,2, 0 ,0, 794
 1996 ,Venture Technology. Inc. ,Chautauqua, POMFRET, MEDINA, 0 ,0 ,0, 2 ,0, 0
-1995 ,Universal Resources Holdings. Incorporated ,Chautauqua, VILLENOVA, MEDINA, 0 ,0 ,1, 0 ,0, 2254
-1995 ,Reynolds. James W ,Allegany, WELLSVILLE, FULMER VALLEY, 0 ,8 ,0, 0 ,0, 0
+1995 ,Universal Resources Holdings. Incorporated ,Chautauqua, VILLENOVA, MEDINA, 0 ,0 ,1, 0 ,330, 2254
+1995 ,Reynolds. James W ,Allegany, WELLSVILLE, FULMER VALLEY, 0 ,8 ,0, 0 ,560, 0
 1996 ,Alden Aurora Gas Co..  Inc. ,Erie, LANCASTER, MEDINA, 0 ,0 ,1, 0 ,0, 130
-1995 ,Taylor. Gilbert M ,Allegany, BOLIVAR, RICHBURG, 0 ,0 ,0, 0 ,0, 0
-1996 ,Arlington Exploration Co. ,Steuben, BATH, ONONDAGA, 0 ,0 ,2, 0 ,0, 24306
+1995 ,Taylor. Gilbert M ,Allegany, BOLIVAR, RICHBURG, 0 ,0 ,0, 0 ,110, 0
+1996 ,Arlington Exploration Co. ,Steuben, BATH, ONONDAGA, 0 ,0 ,2, 0 ,230, 24306
 1995 ,White. Walter W. & Christina L. ,Cattaraugus, CARROLLTON, BRADFORD, 2 ,0 ,0, 0 ,118, 0
 
 
